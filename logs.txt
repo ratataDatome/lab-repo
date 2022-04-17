@@ -1,0 +1,6 @@
+C:\Users\171051\SI_171051_lab1>git log
+commit b69da1f89a94d8f04f4bd9a9ba3dc68a407e2936 (HEAD -> logs, origin/master, master)
+Author: unknown <Aleksandar.Pandiloski@students.finki.ukim.mk>
+Date:   Tue Apr 16 15:38:53 2019 +0200
+
+    Initial commit
